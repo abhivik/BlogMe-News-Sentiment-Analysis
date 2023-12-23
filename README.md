@@ -1,4 +1,4 @@
-# BlogMe-News-Sentiment-Analysis
+# BlogMe. News Sentiment Analysis
 
 ## Introduction
 BlogMe, a renowned blogging platform, possesses a dataset of news articles that requires in-depth analysis. The objectives include extracting keywords from article headlines and determining the sentiment of the news articles. The data, stored in an Excel sheet, is to be visualized in a Tableau dashboard, showcasing sentiment, top articles, and other relevant insights.
